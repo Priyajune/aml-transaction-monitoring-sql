@@ -42,3 +42,8 @@ This project implements an Anti-Money Laundering (AML) transaction monitoring mo
 * **Database Management:** Microsoft SQL Server (SSMS), T-SQL
 * **Query Design:** Grouping aggregations (GROUP BY, HAVING), conditional updates (CASE), schema alterations (ALTER TABLE)
 * **Compliance Concepts:** AML, KYC, CTR reporting thresholds, SAR drafting, FATF risk jurisdictions
+
+
+| `04_velocity_risk_detection.sql` | Identifies rapid-succession transfers using the `LAG()` analytic window function. |
+
+* **Query Design:** Grouping aggregations (`GROUP BY`, `HAVING`), window functions (`LAG`, `PARTITION BY`), conditional updates (`CASE`), schema alterations (`ALTER TABLE`)

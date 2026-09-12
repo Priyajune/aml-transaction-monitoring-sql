@@ -55,3 +55,13 @@ The initial validation run across baseline transaction logs yielded the followin
 * **Database Programming:** Schema Definition (`DDL`), Data Manipulation (`DML`), Dynamic Updates (`CASE`), Operational Views (`CREATE VIEW`), Stored Procedures (`CREATE PROCEDURE`)
 * **Version Control:** Git, GitHub Desktop, GitHub Repository Management
 * **Domain Knowledge:** Anti-Money Laundering (AML), Know Your Customer (KYC), Suspicious Activity Reports (SAR), Currency Transaction Reports (CTR), FATF Compliance
+
+---
+
+## Executive Compliance Dashboard
+
+![AML Compliance Audit Dashboard](aml_dashboard_preview.png)
+
+*Interactive Power BI reporting interface connected directly to the SQL Server monitoring engine, providing real-time triage for threshold evasion (structuring), high-risk cross-border wire transfers, and account velocity anomalies.*
+
+---
